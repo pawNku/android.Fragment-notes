@@ -213,7 +213,7 @@ public class NewsTitleFragment extends Fragment {
         }
     }
 ```
-* 11.向RecyclerView中填充数据 所谓的填充也就是各种给RecyclerView设置适配器咯~还有就是模拟数据~   
+* 11.向RecyclerView中填充数据 所谓的填充也就是各种给RecyclerView设置适配器咯  还有就是模拟数据~   
 ![图片](https://github.com/pawNku/image.inGithub/blob/master/4.5(5).png?raw=true)  
 
 
